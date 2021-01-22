@@ -1,4 +1,4 @@
-# schoolcord
+# Schoolcord
 
 ## Description
 This is the first proof of concept in code. In this POC, the test user can move his avatar within the web page. 
