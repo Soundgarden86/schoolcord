@@ -5,7 +5,6 @@ This is the first proof of concept in code. In this POC, the test user can move 
 
 ## Usage
 - html
-- css
 - Javascript
 
 ## Contributing
